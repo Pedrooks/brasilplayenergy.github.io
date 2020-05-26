@@ -1,2 +1,2 @@
-# brasilplayenergy.github.io
+# http://brasilplayenergy.github.io
 Servidor RPG de SA:MP Brasil
